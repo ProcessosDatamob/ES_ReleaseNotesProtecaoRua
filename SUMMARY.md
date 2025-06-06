@@ -7,6 +7,7 @@
     * [Integración De Notificaciones Push Con Firebase](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integración-De-Notificaciones-Push-Con-Firebase.md)
     * [Autenticación Oauth Vivo En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Autenticación-Oauth-Vivo-En-La-App-Protección-Calle.md)
     * [Activación Con Token Oauth En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Activación-Con-Token-Oauth-En-La-App-Protección-Calle.md)
+    * [Autenticación Vía Oauth En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Autenticación-Vía-Oauth-En-La-App-Protección-Calle.md)
 # Table of contents
 
 * [Descripción Técnica de la Solución Protección Calle - Android](README.md)
