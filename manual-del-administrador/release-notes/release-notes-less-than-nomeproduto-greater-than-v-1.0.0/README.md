@@ -20,3 +20,4 @@
 13. [Acceso y Gestión de Lugares Seguros en la App](Acceso-Y-Gestión-De-Lugares-Seguros-En-La-App.md)
 14. [Pantalla de Bloqueo para Aplicaciones Restringidas](Pantalla-De-Bloqueo-Para-Aplicaciones-Restringidas.md)
 15. [Configuración de Seguridad de Emergencia en la App](Configuración-De-Seguridad-De-Emergencia-En-La-App.md)
+16. [Gestión de Lugares Seguros y Bloqueo de Apps en el Modo Calle](Gestión-De-Lugares-Seguros-Y-Bloqueo-De-Apps-En-El-Modo-Calle.md)
