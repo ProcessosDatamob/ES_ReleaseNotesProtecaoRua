@@ -14,3 +14,4 @@
 
 1. [Gestión del Estado de la Licencia en la Aplicación](Gestión-Del-Estado-De-La-Licencia-En-La-Aplicación.md)
 2. [Administrar Contactos de Confianza en la Aplicación](Administrar-Contactos-De-Confianza-En-La-Aplicación.md)
+3. [Gestión Segura de Configuraciones en la App "Protección Calle"](Gestión-Segura-De-Configuraciones-En-La-App-"Protección-Calle".md)
