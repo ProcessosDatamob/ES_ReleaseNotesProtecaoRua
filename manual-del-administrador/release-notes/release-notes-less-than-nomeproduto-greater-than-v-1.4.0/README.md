@@ -25,3 +25,4 @@
 18. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
 19. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
 20. [Accesibilidad en la Pantalla de Registro de Contraseña](Accesibilidad-En-La-Pantalla-De-Registro-De-Contraseña.md)
+21. [Accesibilidad en la Pantalla de Registro de Contraseña Principal](Accesibilidad-En-La-Pantalla-De-Registro-De-Contraseña-Principal.md)
