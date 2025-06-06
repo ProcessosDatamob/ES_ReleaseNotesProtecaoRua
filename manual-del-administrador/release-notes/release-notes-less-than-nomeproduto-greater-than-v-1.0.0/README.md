@@ -17,3 +17,4 @@
 10. [Pantalla de Splash Screen en la App](Pantalla-De-Splash-Screen-En-La-App.md)
 11. [Personalización de Aplicaciones en el Modo Calle](Personalización-De-Aplicaciones-En-El-Modo-Calle.md)
 12. [Pantalla de Acceso Inicial en el Modo Calle](Pantalla-De-Acceso-Inicial-En-El-Modo-Calle.md)
+13. [Acceso y Gestión de Lugares Seguros en la App](Acceso-Y-Gestión-De-Lugares-Seguros-En-La-App.md)
