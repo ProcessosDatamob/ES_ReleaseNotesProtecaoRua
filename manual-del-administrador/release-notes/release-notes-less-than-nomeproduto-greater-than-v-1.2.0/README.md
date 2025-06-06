@@ -16,3 +16,4 @@
 2. [Administrar Contactos de Confianza en la Aplicación](Administrar-Contactos-De-Confianza-En-La-Aplicación.md)
 3. [Gestión Segura de Configuraciones en la App "Protección Calle"](Gestión-Segura-De-Configuraciones-En-La-App-"Protección-Calle".md)
 4. [Cambiar Contraseña Principal en la App Protección Calle](Cambiar-Contraseña-Principal-En-La-App-Protección-Calle.md)
+5. [Cambiar Contraseña de Emergencia en la App Protección Calle](Cambiar-Contraseña-De-Emergencia-En-La-App-Protección-Calle.md)
