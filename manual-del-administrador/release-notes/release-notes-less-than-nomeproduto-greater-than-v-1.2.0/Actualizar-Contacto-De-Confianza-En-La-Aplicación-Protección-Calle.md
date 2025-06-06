@@ -1,0 +1,5 @@
+# Actualizar Contacto de Confianza en la Aplicación Protección Calle
+
+**ID: US-BTC-412**
+
+Descripción: En la aplicación Protección Calle, puedes actualizar la información de un contacto de confianza para asegurarte de que siempre esté correcta. Para hacer esto, dirígete a la pantalla de gestión de contraseñas y selecciona "Editar contacto de confianza". Elige el contacto que deseas actualizar e ingresa el nuevo número manualmente o selecciona un número directamente de tu agenda. Tras confirmar la actualización, aparecerá un mensaje informando que, en caso de emergencia, se enviará un SMS con tu ubicación a este contacto actualizado. Para completar el proceso, haz clic en "Finalizar" y serás llevado de vuelta a la pantalla principal. Si decides no hacer el cambio, es posible regresar sin guardar los cambios realizados.
