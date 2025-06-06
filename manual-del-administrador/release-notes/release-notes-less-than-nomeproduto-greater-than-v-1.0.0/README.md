@@ -7,3 +7,4 @@
 
 1. [Visibilidad y Navegación en la Pantalla de Inicio de iOS](Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
 2. [Elección de Ubicación Segura en el Mapa](Elección-De-Ubicación-Segura-En-El-Mapa.md)
+3. [Gestión de Lugares Seguros en la App Protección Calle](Gestión-De-Lugares-Seguros-En-La-App-Protección-Calle.md)
