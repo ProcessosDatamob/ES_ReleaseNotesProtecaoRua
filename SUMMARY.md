@@ -11,6 +11,7 @@
     * [Navegación Después Del Bloqueo De Contraseña En Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Navegación-Después-Del-Bloqueo-De-Contraseña-En-Protección-Calle.md)
     * [Gestión De Intentos De Contraseña En Protección Rua](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Gestión-De-Intentos-De-Contraseña-En-Protección-Rua.md)
     * [Restablecimiento De Contraseña Con Biometría](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Restablecimiento-De-Contraseña-Con-Biometría.md)
+    * [Acceso A Las Preguntas Frecuentes En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Acceso-A-Las-Preguntas-Frecuentes-En-La-App-Protección-Calle.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegación Rápida Entre Pestañas En La Página Principal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegación-Rápida-Entre-Pestañas-En-La-Página-Principal.md)
     * [Comportamiento Del Switch En La Home](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamiento-Del-Switch-En-La-Home.md)
