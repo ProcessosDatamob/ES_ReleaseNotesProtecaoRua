@@ -14,3 +14,4 @@
 ### **Novedades**
 
 1. [Bloquear y Desbloquear Apps Automáticamente](Bloquear-Y-Desbloquear-Apps-Automáticamente.md)
+2. [Validación de Contraseña en Protección Calle](Validación-De-Contraseña-En-Protección-Calle.md)
