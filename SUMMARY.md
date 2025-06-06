@@ -1,6 +1,7 @@
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botón Switch Master Inactivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botón-Switch-Master-Inactivo.md)
+    * [Bloqueo De Apps Fuera Del Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibilidad Y Navegación En La Pantalla De Inicio De Ios](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
