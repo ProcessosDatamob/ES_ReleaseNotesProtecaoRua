@@ -1,6 +1,7 @@
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
   * [Release Notes \<NomeProduto> V 1.2.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/README.md)
     * [Navegación Rápida Entre Pestañas En La Página Principal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Navegación-Rápida-Entre-Pestañas-En-La-Página-Principal.md)
+    * [Comportamiento Del Switch En La Home](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Comportamiento-Del-Switch-En-La-Home.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botón Switch Master Inactivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botón-Switch-Master-Inactivo.md)
     * [Bloqueo De Apps Fuera Del Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
