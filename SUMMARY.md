@@ -51,6 +51,7 @@
     * [Accesibilidad En La Pantalla "Definir Área Segura" De La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-"Definir-Área-Segura"-De-La-App-Protección-Calle.md)
     * [Accesibilidad En La Pantalla "Agregar Lugar Seguro"](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-"Agregar-Lugar-Seguro".md)
     * [Accesibilidad En La Selección De Líneas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Selección-De-Líneas.md)
+    * [Accesibilidad En La Pantalla De Inicio De La Aplicación No Configurada](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Inicio-De-La-Aplicación-No-Configurada.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
