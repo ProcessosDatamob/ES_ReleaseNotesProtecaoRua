@@ -14,3 +14,4 @@
 7. [Notificación de Permisos Faltantes en la App](Notificación-De-Permisos-Faltantes-En-La-App.md)
 8. [Uso de Biometría de la App VIVO en Protección Calle](Uso-De-Biometría-De-La-App-Vivo-En-Protección-Calle.md)
 9. [Navegación Después del Bloqueo de Contraseña en Protección Calle](Navegación-Después-Del-Bloqueo-De-Contraseña-En-Protección-Calle.md)
+10. [Gestión de Intentos de Contraseña en Protección Rua](Gestión-De-Intentos-De-Contraseña-En-Protección-Rua.md)
