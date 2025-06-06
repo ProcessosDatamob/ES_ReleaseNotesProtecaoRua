@@ -39,3 +39,4 @@
 32. [Accesibilidad en la Pantalla "Elija un Nombre para Este Lugar"](Accesibilidad-En-La-Pantalla-"Elija-Un-Nombre-Para-Este-Lugar".md)
 33. [Accesibilidad en la Pantalla "Definir Área Segura" de la App Protección Calle](Accesibilidad-En-La-Pantalla-"Definir-Área-Segura"-De-La-App-Protección-Calle.md)
 34. [Accesibilidad en la Pantalla "Agregar Lugar Seguro"](Accesibilidad-En-La-Pantalla-"Agregar-Lugar-Seguro".md)
+35. [Accesibilidad en la Selección de Líneas](Accesibilidad-En-La-Selección-De-Líneas.md)
