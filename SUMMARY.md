@@ -23,6 +23,7 @@
     * [Notificaciones Accesibles En La Página De Contenido](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Notificaciones-Accesibles-En-La-Página-De-Contenido.md)
     * [Acceso Fácil A La Faq En El Portal](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acceso-Fácil-A-La-Faq-En-El-Portal.md)
     * [Accesibilidad Para Permisos Pendientes](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-Para-Permisos-Pendientes.md)
+    * [Accesibilidad En La Edición De Contacto De Confianza](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
