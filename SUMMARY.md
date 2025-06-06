@@ -86,3 +86,4 @@
     * [Eliminación De La Pantalla De Inicio De Onboarding Del Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Eliminación-De-La-Pantalla-De-Inicio-De-Onboarding-Del-Modo-Calle.md)
     * [Pantalla Inicial Del Modo Calle En Lugar No Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-Inicial-Del-Modo-Calle-En-Lugar-No-Seguro.md)
     * [Pantalla De Inicio Del Modo Calle En Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Inicio-Del-Modo-Calle-En-Lugar-Seguro.md)
+    * [Pantalla Inicial Del Modo Calle En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-Inicial-Del-Modo-Calle-En-La-App.md)
