@@ -35,3 +35,4 @@
 28. [Permiso de Tiempo de Uso para Modo Calle](Permiso-De-Tiempo-De-Uso-Para-Modo-Calle.md)
 29. [Gestión de Permisos de Ubicación en la App Modo Rua](Gestión-De-Permisos-De-Ubicación-En-La-App-Modo-Rua.md)
 30. [Configuración de Permisos en Modo Calle](Configuración-De-Permisos-En-Modo-Calle.md)
+31. [Registro de Contraseña Numérica en el Modo Calle](Registro-De-Contraseña-Numérica-En-El-Modo-Calle.md)
