@@ -26,3 +26,4 @@
 19. [Restricción de Acceso a Apps en Modo Calle](Restricción-De-Acceso-A-Apps-En-Modo-Calle.md)
 20. [Seleccionar Nombre para Ubicación Segura en la App Modo Calle](Seleccionar-Nombre-Para-Ubicación-Segura-En-La-App-Modo-Calle.md)
 21. [Definir Área de Cobertura de Local Seguro en el Modo Calle](Definir-Área-De-Cobertura-De-Local-Seguro-En-El-Modo-Calle.md)
+22. [Añadir Ubicación Segura en la App Modo Calle](Añadir-Ubicación-Segura-En-La-App-Modo-Calle.md)
