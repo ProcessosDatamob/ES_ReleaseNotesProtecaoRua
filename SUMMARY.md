@@ -17,6 +17,8 @@
     * [Configurações e Recuperação de Senha](descripcion-tecnica-de-la-solucion-proteccion-calle-android/ios/configuracoes-e-recuperacao-de-senha.md)
     * [Requisitos](descripcion-tecnica-de-la-solucion-proteccion-calle-android/ios/requisitos.md)
 * [RELEASE NOTES](manual-del-administrador/release-notes/README.md)
+  * [Release Notes \<NomeProduto> V 1.4.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/README.md)
+    * [Acceso Facilitado A Las Notificaciones](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Acceso-Facilitado-A-Las-Notificaciones.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
