@@ -8,3 +8,4 @@
 1. [Botón Switch Master Inactivo](Botón-Switch-Master-Inactivo.md)
 2. [Bloqueo de Apps Fuera del Lugar Seguro](Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
 3. [Actualización del Mensaje en la Pantalla de Inicio](Actualización-Del-Mensaje-En-La-Pantalla-De-Inicio.md)
+4. [Añadir Nuevas Ubicaciones](Añadir-Nuevas-Ubicaciones.md)
