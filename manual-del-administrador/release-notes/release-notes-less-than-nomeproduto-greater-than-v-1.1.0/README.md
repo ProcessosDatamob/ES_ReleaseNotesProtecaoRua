@@ -18,3 +18,4 @@
 3. [Configurar Radio de Protección](Configurar-Radio-De-Protección.md)
 4. [Creación y Gestión de Contraseñas en el Perfil](Creación-Y-Gestión-De-Contraseñas-En-El-Perfil.md)
 5. [Registro de Contacto de Confianza](Registro-De-Contacto-De-Confianza.md)
+6. [Registro de Contraseña de Emergencia en la App Protección Calle](Registro-De-Contraseña-De-Emergencia-En-La-App-Protección-Calle.md)
