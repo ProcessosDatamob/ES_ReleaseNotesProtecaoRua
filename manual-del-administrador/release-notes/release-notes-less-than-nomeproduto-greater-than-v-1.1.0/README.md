@@ -24,3 +24,4 @@
 9. [Visualización de Ubicaciones en la Página de Inicio sin Dirección Registrada](Visualización-De-Ubicaciones-En-La-Página-De-Inicio-Sin-Dirección-Registrada.md)
 10. [Selección de Aplicaciones en la App Protección Calle](Selección-De-Aplicaciones-En-La-App-Protección-Calle.md)
 11. [Ajuste de Texto para Registro de Ubicación Segura](Ajuste-De-Texto-Para-Registro-De-Ubicación-Segura.md)
+12. [Registro de Ubicación Segura en la App](Registro-De-Ubicación-Segura-En-La-App.md)
