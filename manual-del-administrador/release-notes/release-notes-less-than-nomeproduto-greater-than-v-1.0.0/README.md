@@ -22,3 +22,4 @@
 15. [Configuración de Seguridad de Emergencia en la App](Configuración-De-Seguridad-De-Emergencia-En-La-App.md)
 16. [Gestión de Lugares Seguros y Bloqueo de Apps en el Modo Calle](Gestión-De-Lugares-Seguros-Y-Bloqueo-De-Apps-En-El-Modo-Calle.md)
 17. [Pantalla de Desbloqueo con Validación de Contraseña](Pantalla-De-Desbloqueo-Con-Validación-De-Contraseña.md)
+18. [Selección Detallada de Apps en el Modo Calle](Selección-Detallada-De-Apps-En-El-Modo-Calle.md)
