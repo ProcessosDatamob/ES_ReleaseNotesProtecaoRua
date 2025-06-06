@@ -1,0 +1,5 @@
+# Permiso de Notificaciones en la App Protección Calle
+
+**ID: US-BTC-379**
+
+En la aplicación Protección Calle, cuando otorgas el permiso de Tiempo de Uso, aparecerá una pantalla explicando por qué es importante activar las notificaciones. Para continuar, haz clic en "Continuar", lo que generará una solicitud para que actives las notificaciones. Si optas por "No permitir", un aviso ofrecerá la opción de "Continuar" para abrir la configuración y ajustarlo manualmente o "Hacer después" para proceder sin activar las notificaciones en ese momento. Al elegir "Continuar", serás llevado a la configuración donde podrás ajustar manualmente los permisos. Si eliges "Hacer después", avanzarás a la siguiente etapa de la aplicación. Si inicialmente niegas el permiso, habrá oportunidades futuras para permitir las notificaciones nuevamente.
