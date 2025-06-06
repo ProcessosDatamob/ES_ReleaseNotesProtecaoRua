@@ -6,6 +6,7 @@
     * [Configuración De Protecciones En La Página De Inicio](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Configuración-De-Protecciones-En-La-Página-De-Inicio.md)
     * [Gestión Del Estado De La Licencia En La Aplicación](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestión-Del-Estado-De-La-Licencia-En-La-Aplicación.md)
     * [Administrar Contactos De Confianza En La Aplicación](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Administrar-Contactos-De-Confianza-En-La-Aplicación.md)
+    * [Gestión Segura De Configuraciones En La App "Protección Calle"](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestión-Segura-De-Configuraciones-En-La-App-"Protección-Calle".md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botón Switch Master Inactivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botón-Switch-Master-Inactivo.md)
     * [Bloqueo De Apps Fuera Del Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
