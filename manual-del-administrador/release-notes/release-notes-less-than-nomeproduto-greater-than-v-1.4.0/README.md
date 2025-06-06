@@ -31,3 +31,4 @@
 24. [Accesibilidad en la Activación de Localización de Protección Calle](Accesibilidad-En-La-Activación-De-Localización-De-Protección-Calle.md)
 25. [Accesibilidad en la Pantalla de Error de Sincronización](Accesibilidad-En-La-Pantalla-De-Error-De-Sincronización.md)
 26. [Accesibilidad en la Pantalla de Cambio de Dispositivo](Accesibilidad-En-La-Pantalla-De-Cambio-De-Dispositivo.md)
+27. [Accesibilidad en la Pantalla "Límite de Lugares Seguros Alcanzado" en la App Protección Calle](Accesibilidad-En-La-Pantalla-"Límite-De-Lugares-Seguros-Alcanzado"-En-La-App-Protección-Calle.md)
