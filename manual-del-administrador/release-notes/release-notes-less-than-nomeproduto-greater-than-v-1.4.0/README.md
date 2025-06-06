@@ -23,3 +23,4 @@
 16. [Accesibilidad en la Pantalla de Añadir Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Añadir-Contacto-De-Confianza.md)
 17. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
 18. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
+19. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
