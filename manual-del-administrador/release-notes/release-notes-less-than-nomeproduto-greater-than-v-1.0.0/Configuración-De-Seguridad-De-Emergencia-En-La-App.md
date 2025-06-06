@@ -1,0 +1,5 @@
+# Configuración de Seguridad de Emergencia en la App
+
+**ID de la US: US-BTC-129**
+
+**Descripción:** En la aplicación, puedes configurar una contraseña de emergencia y añadir un contacto de confianza para situaciones de peligro. Al acceder a la sección de Contraseñas y Accesos, podrás crear una contraseña de emergencia que, cuando se use, enviará una alerta vía SMS al contacto de confianza que elijas. El proceso es simple y consta de tres etapas: primero, añadir el contacto de confianza; luego, crear una contraseña de emergencia; y, finalmente, completar la configuración. Si la contraseña que crees no cumple con los criterios requeridos, como tener al menos 6 dígitos y no estar compuesta por números secuenciales, aparecerá un mensaje de error. Una vez que la configuración se complete con éxito, recibirás una confirmación, proporcionando una capa extra de seguridad para ti.
