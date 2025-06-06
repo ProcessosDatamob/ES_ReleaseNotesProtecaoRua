@@ -28,3 +28,4 @@
 21. [Accesibilidad en la Pantalla de Registro de Contraseña Principal](Accesibilidad-En-La-Pantalla-De-Registro-De-Contraseña-Principal.md)
 22. [Accesibilidad de la Pantalla de Sincronización para Personas con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Sincronización-Para-Personas-Con-Discapacidad-Visual.md)
 23. [Accesibilidad en la Pantalla de Permisos](Accesibilidad-En-La-Pantalla-De-Permisos.md)
+24. [Accesibilidad en la Activación de Localización de Protección Calle](Accesibilidad-En-La-Activación-De-Localización-De-Protección-Calle.md)
