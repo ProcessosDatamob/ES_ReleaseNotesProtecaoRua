@@ -36,3 +36,4 @@
 29. [Accesibilidad en la Pantalla de Búsqueda de Dirección de la App Protección Calle](Accesibilidad-En-La-Pantalla-De-Búsqueda-De-Dirección-De-La-App-Protección-Calle.md)
 30. [Accesibilidad en el Modal de Eliminación de Ubicación Segura de la App Protección Calle](Accesibilidad-En-El-Modal-De-Eliminación-De-Ubicación-Segura-De-La-App-Protección-Calle.md)
 31. [Accesibilidad en el Modal de Opciones de Ubicación Segura de la App Protección Calle](Accesibilidad-En-El-Modal-De-Opciones-De-Ubicación-Segura-De-La-App-Protección-Calle.md)
+32. [Accesibilidad en la Pantalla "Elija un Nombre para Este Lugar"](Accesibilidad-En-La-Pantalla-"Elija-Un-Nombre-Para-Este-Lugar".md)
