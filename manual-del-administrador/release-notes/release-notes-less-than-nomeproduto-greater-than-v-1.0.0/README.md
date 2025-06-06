@@ -36,3 +36,4 @@
 29. [Gestión de Permisos de Ubicación en la App Modo Rua](Gestión-De-Permisos-De-Ubicación-En-La-App-Modo-Rua.md)
 30. [Configuración de Permisos en Modo Calle](Configuración-De-Permisos-En-Modo-Calle.md)
 31. [Registro de Contraseña Numérica en el Modo Calle](Registro-De-Contraseña-Numérica-En-El-Modo-Calle.md)
+32. [Sincronización del Token Firebase en la App](Sincronización-Del-Token-Firebase-En-La-App.md)
