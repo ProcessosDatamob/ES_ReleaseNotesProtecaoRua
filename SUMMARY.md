@@ -76,3 +76,4 @@
     * [Gestión De Lugares Seguros Y Bloqueo De Apps En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gestión-De-Lugares-Seguros-Y-Bloqueo-De-Apps-En-El-Modo-Calle.md)
     * [Pantalla De Desbloqueo Con Validación De Contraseña](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Desbloqueo-Con-Validación-De-Contraseña.md)
     * [Selección Detallada De Apps En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Selección-Detallada-De-Apps-En-El-Modo-Calle.md)
+    * [Restricción De Acceso A Apps En Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Restricción-De-Acceso-A-Apps-En-Modo-Calle.md)
