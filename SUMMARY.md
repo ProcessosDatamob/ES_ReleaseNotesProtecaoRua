@@ -88,3 +88,4 @@
     * [Pantalla De Inicio Del Modo Calle En Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Inicio-Del-Modo-Calle-En-Lugar-Seguro.md)
     * [Pantalla Inicial Del Modo Calle En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-Inicial-Del-Modo-Calle-En-La-App.md)
     * [Permiso De Notificaciones Para Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permiso-De-Notificaciones-Para-Modo-Calle.md)
+    * [Permiso De Tiempo De Uso Para Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permiso-De-Tiempo-De-Uso-Para-Modo-Calle.md)
