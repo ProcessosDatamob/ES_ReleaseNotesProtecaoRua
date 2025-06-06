@@ -90,3 +90,4 @@
     * [Permiso De Notificaciones Para Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permiso-De-Notificaciones-Para-Modo-Calle.md)
     * [Permiso De Tiempo De Uso Para Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Permiso-De-Tiempo-De-Uso-Para-Modo-Calle.md)
     * [Gestión De Permisos De Ubicación En La App Modo Rua](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gestión-De-Permisos-De-Ubicación-En-La-App-Modo-Rua.md)
+    * [Configuración De Permisos En Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuración-De-Permisos-En-Modo-Calle.md)
