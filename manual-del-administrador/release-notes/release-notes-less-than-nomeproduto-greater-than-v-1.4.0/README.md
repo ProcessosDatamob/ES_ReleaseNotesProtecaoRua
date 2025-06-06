@@ -10,3 +10,4 @@
 3. [Notificaciones Accesibles en la Página de Contenido](Notificaciones-Accesibles-En-La-Página-De-Contenido.md)
 4. [Acceso Fácil a la FAQ en el Portal](Acceso-Fácil-A-La-Faq-En-El-Portal.md)
 5. [Accesibilidad para Permisos Pendientes](Accesibilidad-Para-Permisos-Pendientes.md)
+6. [Accesibilidad en la Edición de Contacto de Confianza](Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
