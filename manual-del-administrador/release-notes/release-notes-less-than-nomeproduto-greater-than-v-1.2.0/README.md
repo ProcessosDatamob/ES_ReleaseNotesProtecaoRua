@@ -8,3 +8,4 @@
 1. [Navegación Rápida entre Pestañas en la Página Principal](Navegación-Rápida-Entre-Pestañas-En-La-Página-Principal.md)
 2. [Comportamiento del Switch en la Home](Comportamiento-Del-Switch-En-La-Home.md)
 3. [Indicación de Ubicación Segura en el Portal](Indicación-De-Ubicación-Segura-En-El-Portal.md)
+4. [Configuración de Protecciones en la Página de Inicio](Configuración-De-Protecciones-En-La-Página-De-Inicio.md)
