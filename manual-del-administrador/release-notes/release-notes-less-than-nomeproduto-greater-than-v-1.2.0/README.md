@@ -21,3 +21,4 @@
 7. [Gestión de Contraseñas por Perfil](Gestión-De-Contraseñas-Por-Perfil.md)
 8. [Notificación de Permisos Pendientes en la Aplicación](Notificación-De-Permisos-Pendientes-En-La-Aplicación.md)
 9. [Acceso Inicial a la Pantalla de Inicio con Permisos Concedidos](Acceso-Inicial-A-La-Pantalla-De-Inicio-Con-Permisos-Concedidos.md)
+10. [Recepción y Respuesta de Notificación de Prueba en la App Protección Calle](Recepción-Y-Respuesta-De-Notificación-De-Prueba-En-La-App-Protección-Calle.md)
