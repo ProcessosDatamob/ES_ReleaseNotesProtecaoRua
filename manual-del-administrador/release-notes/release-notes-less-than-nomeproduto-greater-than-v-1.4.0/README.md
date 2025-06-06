@@ -15,3 +15,4 @@
 8. [Pantalla de Retroalimentación para Cambio de Contraseña](Pantalla-De-Retroalimentación-Para-Cambio-De-Contraseña.md)
 9. [Accesibilidad de la Contraseña de Emergencia](Accesibilidad-De-La-Contraseña-De-Emergencia.md)
 10. [Accesibilidad en la Pantalla de Gestionar Contraseñas](Accesibilidad-En-La-Pantalla-De-Gestionar-Contraseñas.md)
+11. [Acceso Fácil a la Pantalla de Administrar Contraseñas](Acceso-Fácil-A-La-Pantalla-De-Administrar-Contraseñas.md)
