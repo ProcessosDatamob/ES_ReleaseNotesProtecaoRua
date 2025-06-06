@@ -31,3 +31,4 @@
 24. [Pantalla Inicial del Modo Calle en Lugar No Seguro](Pantalla-Inicial-Del-Modo-Calle-En-Lugar-No-Seguro.md)
 25. [Pantalla de Inicio del Modo Calle en Lugar Seguro](Pantalla-De-Inicio-Del-Modo-Calle-En-Lugar-Seguro.md)
 26. [Pantalla Inicial del Modo Calle en la App](Pantalla-Inicial-Del-Modo-Calle-En-La-App.md)
+27. [Permiso de Notificaciones para Modo Calle](Permiso-De-Notificaciones-Para-Modo-Calle.md)
