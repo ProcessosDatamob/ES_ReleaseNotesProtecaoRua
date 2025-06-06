@@ -11,3 +11,4 @@
 4. [Acceso Fácil a la FAQ en el Portal](Acceso-Fácil-A-La-Faq-En-El-Portal.md)
 5. [Accesibilidad para Permisos Pendientes](Accesibilidad-Para-Permisos-Pendientes.md)
 6. [Accesibilidad en la Edición de Contacto de Confianza](Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
+7. [Accesibilidad de la Pantalla de Contacto de Confianza](Accesibilidad-De-La-Pantalla-De-Contacto-De-Confianza.md)
