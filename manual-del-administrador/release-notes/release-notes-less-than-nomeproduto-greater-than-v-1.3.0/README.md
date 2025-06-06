@@ -6,3 +6,4 @@
 ### **Novedades**
 
 1. [Notificación de Actualización Disponible](Notificación-De-Actualización-Disponible.md)
+2. [Notificación de Uso de la Contraseña de Emergencia](Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
