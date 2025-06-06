@@ -1,0 +1,5 @@
+# Pantalla Inicial del Modo Calle en la App
+
+**ID: US-BTC-109**
+
+Descripción: Cuando abres la app Modo Calle, la primera pantalla que aparece te permite configurar las aplicaciones que deseas proteger. En ella, verás un mensaje de bienvenida e instrucciones simples para seleccionar las aplicaciones, además de un mapa que muestra tu ubicación actual junto con la dirección. En la parte inferior de la pantalla, hay botones como "Inicio", "Lugares" y "Apps" que facilitan la navegación entre las secciones de la app. El botón "Inicio" te regresa a esta pantalla inicial sin recargarla, mientras que los botones "Lugares" y "Apps" permiten acceder a tus listas específicas. Esta área inferior mantiene el mismo estilo en todas las pantallas, garantizando que siempre tengas una navegación fácil e intuitiva.
