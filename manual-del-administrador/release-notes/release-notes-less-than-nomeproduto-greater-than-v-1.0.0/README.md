@@ -14,3 +14,4 @@
 7. [Activación con Token OAuth en la App Protección Calle](Activación-Con-Token-Oauth-En-La-App-Protección-Calle.md)
 8. [Autenticación vía OAuth en la App Protección Calle](Autenticación-Vía-Oauth-En-La-App-Protección-Calle.md)
 9. [Configuración de la Redirect URI para OAuth](Configuración-De-La-Redirect-Uri-Para-Oauth.md)
+10. [Pantalla de Splash Screen en la App](Pantalla-De-Splash-Screen-En-La-App.md)
