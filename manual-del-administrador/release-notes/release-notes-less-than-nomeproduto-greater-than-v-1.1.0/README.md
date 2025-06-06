@@ -26,3 +26,4 @@
 11. [Ajuste de Texto para Registro de Ubicación Segura](Ajuste-De-Texto-Para-Registro-De-Ubicación-Segura.md)
 12. [Registro de Ubicación Segura en la App](Registro-De-Ubicación-Segura-En-La-App.md)
 13. [Registro de Contraseña Principal a través de Tarjeta de Incentivo](Registro-De-Contraseña-Principal-A-Través-De-Tarjeta-De-Incentivo.md)
+14. [Permiso de Notificaciones en la App Protección Calle](Permiso-De-Notificaciones-En-La-App-Protección-Calle.md)
