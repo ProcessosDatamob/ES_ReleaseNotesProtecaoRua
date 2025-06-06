@@ -92,3 +92,4 @@
     * [Gestión De Permisos De Ubicación En La App Modo Rua](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gestión-De-Permisos-De-Ubicación-En-La-App-Modo-Rua.md)
     * [Configuración De Permisos En Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuración-De-Permisos-En-Modo-Calle.md)
     * [Registro De Contraseña Numérica En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Registro-De-Contraseña-Numérica-En-El-Modo-Calle.md)
+    * [Sincronización Del Token Firebase En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Sincronización-Del-Token-Firebase-En-La-App.md)
