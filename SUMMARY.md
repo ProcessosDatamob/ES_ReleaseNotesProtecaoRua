@@ -69,6 +69,7 @@
     * [Selección De Aplicaciones En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Selección-De-Aplicaciones-En-La-App-Protección-Calle.md)
     * [Ajuste De Texto Para Registro De Ubicación Segura](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Ajuste-De-Texto-Para-Registro-De-Ubicación-Segura.md)
     * [Registro De Ubicación Segura En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Registro-De-Ubicación-Segura-En-La-App.md)
+    * [Registro De Contraseña Principal A Través De Tarjeta De Incentivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Registro-De-Contraseña-Principal-A-Través-De-Tarjeta-De-Incentivo.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibilidad Y Navegación En La Pantalla De Inicio De Ios](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
