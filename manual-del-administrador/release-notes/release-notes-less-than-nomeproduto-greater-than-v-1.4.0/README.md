@@ -20,3 +20,4 @@
 13. [Accesibilidad de la Pantalla de Retroalimentación](Accesibilidad-De-La-Pantalla-De-Retroalimentación.md)
 14. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
 15. [Accesibilidad en la Edición de Contactos de Confianza](Accesibilidad-En-La-Edición-De-Contactos-De-Confianza.md)
+16. [Accesibilidad en la Pantalla de Añadir Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Añadir-Contacto-De-Confianza.md)
