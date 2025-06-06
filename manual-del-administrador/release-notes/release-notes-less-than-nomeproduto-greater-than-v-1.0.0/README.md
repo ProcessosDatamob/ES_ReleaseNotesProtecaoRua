@@ -29,3 +29,4 @@
 22. [Añadir Ubicación Segura en la App Modo Calle](Añadir-Ubicación-Segura-En-La-App-Modo-Calle.md)
 23. [Eliminación de la Pantalla de Inicio de Onboarding del Modo Calle](Eliminación-De-La-Pantalla-De-Inicio-De-Onboarding-Del-Modo-Calle.md)
 24. [Pantalla Inicial del Modo Calle en Lugar No Seguro](Pantalla-Inicial-Del-Modo-Calle-En-Lugar-No-Seguro.md)
+25. [Pantalla de Inicio del Modo Calle en Lugar Seguro](Pantalla-De-Inicio-Del-Modo-Calle-En-Lugar-Seguro.md)
