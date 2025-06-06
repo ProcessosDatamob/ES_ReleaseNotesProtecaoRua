@@ -2,3 +2,7 @@
 
 ## **Versão 1.3.0 - 06/2025**
 
+
+### **Novedades**
+
+1. [Notificación de Actualización Disponible](Notificación-De-Actualización-Disponible.md)
