@@ -27,3 +27,4 @@
 20. [Seleccionar Nombre para Ubicación Segura en la App Modo Calle](Seleccionar-Nombre-Para-Ubicación-Segura-En-La-App-Modo-Calle.md)
 21. [Definir Área de Cobertura de Local Seguro en el Modo Calle](Definir-Área-De-Cobertura-De-Local-Seguro-En-El-Modo-Calle.md)
 22. [Añadir Ubicación Segura en la App Modo Calle](Añadir-Ubicación-Segura-En-La-App-Modo-Calle.md)
+23. [Eliminación de la Pantalla de Inicio de Onboarding del Modo Calle](Eliminación-De-La-Pantalla-De-Inicio-De-Onboarding-Del-Modo-Calle.md)
