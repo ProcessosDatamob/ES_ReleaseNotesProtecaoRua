@@ -1,0 +1,5 @@
+# Acceso a las Preguntas Frecuentes en la App Protección Calle
+
+**ID: US-BTC-158**
+
+En la aplicación Protección Calle, puedes acceder a la pantalla de Preguntas Frecuentes (FAQ) al hacer clic en el ícono de interrogación ("?") disponible en las secciones "Lugares Seguros" o "Apps". Al hacerlo, serás llevado a una página que contiene un título claro y una barra de búsqueda para facilitar la búsqueda de temas específicos. Debajo de la barra de búsqueda, hay una lista de preguntas con respuestas detalladas. Cuando haces clic en una pregunta, se muestra la respuesta correspondiente, mientras que las otras preguntas permanecen ocultas. Si deseas buscar temas específicos, la barra de búsqueda permite filtrar las preguntas, y puedes limpiar la búsqueda en cualquier momento haciendo clic en el botón "X", volviendo a la lista completa de preguntas. Esta funcionalidad fue creada para ayudarte a resolver rápidamente tus dudas sobre cómo usar la aplicación.
