@@ -6,3 +6,4 @@
 ### **Correccíon de Errores**
 
 1. [Botón Switch Master Inactivo](Botón-Switch-Master-Inactivo.md)
+2. [Bloqueo de Apps Fuera del Lugar Seguro](Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
