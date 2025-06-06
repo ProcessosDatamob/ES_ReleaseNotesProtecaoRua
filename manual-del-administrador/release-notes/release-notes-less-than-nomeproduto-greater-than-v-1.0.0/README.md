@@ -15,3 +15,4 @@
 8. [Autenticación vía OAuth en la App Protección Calle](Autenticación-Vía-Oauth-En-La-App-Protección-Calle.md)
 9. [Configuración de la Redirect URI para OAuth](Configuración-De-La-Redirect-Uri-Para-Oauth.md)
 10. [Pantalla de Splash Screen en la App](Pantalla-De-Splash-Screen-En-La-App.md)
+11. [Personalización de Aplicaciones en el Modo Calle](Personalización-De-Aplicaciones-En-El-Modo-Calle.md)
