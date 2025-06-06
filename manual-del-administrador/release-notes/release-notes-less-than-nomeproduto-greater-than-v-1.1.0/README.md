@@ -20,3 +20,4 @@
 5. [Registro de Contacto de Confianza](Registro-De-Contacto-De-Confianza.md)
 6. [Registro de Contraseña de Emergencia en la App Protección Calle](Registro-De-Contraseña-De-Emergencia-En-La-App-Protección-Calle.md)
 7. [Visualización de Lugares Seguros en la App](Visualización-De-Lugares-Seguros-En-La-App.md)
+8. [Confirmación de Configuración Completa en la App Protección Calle](Confirmación-De-Configuración-Completa-En-La-App-Protección-Calle.md)
