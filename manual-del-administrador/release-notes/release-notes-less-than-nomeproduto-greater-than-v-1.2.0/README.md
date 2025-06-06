@@ -20,3 +20,4 @@
 6. [Actualizar Contacto de Confianza en la Aplicación Protección Calle](Actualizar-Contacto-De-Confianza-En-La-Aplicación-Protección-Calle.md)
 7. [Gestión de Contraseñas por Perfil](Gestión-De-Contraseñas-Por-Perfil.md)
 8. [Notificación de Permisos Pendientes en la Aplicación](Notificación-De-Permisos-Pendientes-En-La-Aplicación.md)
+9. [Acceso Inicial a la Pantalla de Inicio con Permisos Concedidos](Acceso-Inicial-A-La-Pantalla-De-Inicio-Con-Permisos-Concedidos.md)
