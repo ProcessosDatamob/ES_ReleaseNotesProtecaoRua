@@ -15,3 +15,4 @@
 
 1. [Bloquear y Desbloquear Apps Automáticamente](Bloquear-Y-Desbloquear-Apps-Automáticamente.md)
 2. [Validación de Contraseña en Protección Calle](Validación-De-Contraseña-En-Protección-Calle.md)
+3. [Configurar Radio de Protección](Configurar-Radio-De-Protección.md)
