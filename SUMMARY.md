@@ -73,3 +73,4 @@
     * [Pantalla De Bloqueo Para Aplicaciones Restringidas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Bloqueo-Para-Aplicaciones-Restringidas.md)
     * [Configuración De Seguridad De Emergencia En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuración-De-Seguridad-De-Emergencia-En-La-App.md)
     * [Gestión De Lugares Seguros Y Bloqueo De Apps En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gestión-De-Lugares-Seguros-Y-Bloqueo-De-Apps-En-El-Modo-Calle.md)
+    * [Pantalla De Desbloqueo Con Validación De Contraseña](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Desbloqueo-Con-Validación-De-Contraseña.md)
