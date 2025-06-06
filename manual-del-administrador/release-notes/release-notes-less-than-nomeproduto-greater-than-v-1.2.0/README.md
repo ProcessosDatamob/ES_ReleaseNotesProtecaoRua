@@ -19,3 +19,4 @@
 5. [Cambiar Contraseña de Emergencia en la App Protección Calle](Cambiar-Contraseña-De-Emergencia-En-La-App-Protección-Calle.md)
 6. [Actualizar Contacto de Confianza en la Aplicación Protección Calle](Actualizar-Contacto-De-Confianza-En-La-Aplicación-Protección-Calle.md)
 7. [Gestión de Contraseñas por Perfil](Gestión-De-Contraseñas-Por-Perfil.md)
+8. [Notificación de Permisos Pendientes en la Aplicación](Notificación-De-Permisos-Pendientes-En-La-Aplicación.md)
