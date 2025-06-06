@@ -18,3 +18,4 @@
 11. [Acceso Fácil a la Pantalla de Administrar Contraseñas](Acceso-Fácil-A-La-Pantalla-De-Administrar-Contraseñas.md)
 12. [Accesibilidad Mejorada en la Pantalla de Perfil](Accesibilidad-Mejorada-En-La-Pantalla-De-Perfil.md)
 13. [Accesibilidad de la Pantalla de Retroalimentación](Accesibilidad-De-La-Pantalla-De-Retroalimentación.md)
+14. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
