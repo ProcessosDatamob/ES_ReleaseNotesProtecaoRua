@@ -65,6 +65,7 @@
     * [Confirmación De Configuración Completa En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Confirmación-De-Configuración-Completa-En-La-App-Protección-Calle.md)
     * [Visualización De Ubicaciones En La Página De Inicio Sin Dirección Registrada](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Visualización-De-Ubicaciones-En-La-Página-De-Inicio-Sin-Dirección-Registrada.md)
     * [Selección De Aplicaciones En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Selección-De-Aplicaciones-En-La-App-Protección-Calle.md)
+    * [Ajuste De Texto Para Registro De Ubicación Segura](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Ajuste-De-Texto-Para-Registro-De-Ubicación-Segura.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibilidad Y Navegación En La Pantalla De Inicio De Ios](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
