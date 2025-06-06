@@ -27,6 +27,7 @@
     * [Accesibilidad De La Pantalla De Contacto De Confianza](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-De-La-Pantalla-De-Contacto-De-Confianza.md)
     * [Pantalla De Retroalimentación Para Cambio De Contraseña](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Pantalla-De-Retroalimentación-Para-Cambio-De-Contraseña.md)
     * [Accesibilidad De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-De-La-Contraseña-De-Emergencia.md)
+    * [Accesibilidad En La Pantalla De Gestionar Contraseñas](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Gestionar-Contraseñas.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
