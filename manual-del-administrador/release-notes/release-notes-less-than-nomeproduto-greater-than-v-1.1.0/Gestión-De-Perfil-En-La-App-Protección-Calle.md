@@ -1,0 +1,5 @@
+# Gestión de Perfil en la App Protección Calle
+
+**ID: US-BTC-101**
+
+En la app Protección Calle, puedes acceder a tu perfil para actualizar información personal y controlar algunas funcionalidades de la aplicación. En la pantalla de Perfil, están visibles tu foto, nombre y varias opciones para personalizar tu experiencia. Puedes crear contraseñas para reforzar la seguridad de tu cuenta y, durante este proceso, se te guiará para registrar las contraseñas y añadir un contacto de confianza. Después de definir las contraseñas, la opción pasará a ser "Gestionar Contraseñas", permitiéndote hacer ajustes cuando sea necesario. Además, es posible activar o desactivar el Face ID para facilitar el acceso a la app. Si deseas cerrar la sesión, simplemente selecciona "Salir de mi cuenta" para cerrar sesión y volver a la pantalla de inicio de sesión.
