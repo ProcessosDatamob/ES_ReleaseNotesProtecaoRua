@@ -11,6 +11,7 @@
     * [Cambiar Contraseña De Emergencia En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Cambiar-Contraseña-De-Emergencia-En-La-App-Protección-Calle.md)
     * [Actualizar Contacto De Confianza En La Aplicación Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Actualizar-Contacto-De-Confianza-En-La-Aplicación-Protección-Calle.md)
     * [Gestión De Contraseñas Por Perfil](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestión-De-Contraseñas-Por-Perfil.md)
+    * [Notificación De Permisos Pendientes En La Aplicación](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Notificación-De-Permisos-Pendientes-En-La-Aplicación.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botón Switch Master Inactivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botón-Switch-Master-Inactivo.md)
     * [Bloqueo De Apps Fuera Del Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
