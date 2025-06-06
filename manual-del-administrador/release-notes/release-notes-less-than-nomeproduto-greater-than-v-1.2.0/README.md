@@ -6,3 +6,4 @@
 ### **Correccíon de Errores**
 
 1. [Navegación Rápida entre Pestañas en la Página Principal](Navegación-Rápida-Entre-Pestañas-En-La-Página-Principal.md)
+2. [Comportamiento del Switch en la Home](Comportamiento-Del-Switch-En-La-Home.md)
