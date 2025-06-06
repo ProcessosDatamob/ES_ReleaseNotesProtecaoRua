@@ -17,3 +17,4 @@
 10. [Gestión de Intentos de Contraseña en Protección Rua](Gestión-De-Intentos-De-Contraseña-En-Protección-Rua.md)
 11. [Restablecimiento de Contraseña con Biometría](Restablecimiento-De-Contraseña-Con-Biometría.md)
 12. [Acceso a las Preguntas Frecuentes en la App Protección Calle](Acceso-A-Las-Preguntas-Frecuentes-En-La-App-Protección-Calle.md)
+13. [Pantalla de Notificaciones de la App Protección Calle](Pantalla-De-Notificaciones-De-La-App-Protección-Calle.md)
