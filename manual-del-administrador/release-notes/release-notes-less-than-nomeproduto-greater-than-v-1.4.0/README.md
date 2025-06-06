@@ -29,3 +29,4 @@
 22. [Accesibilidad de la Pantalla de Sincronización para Personas con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Sincronización-Para-Personas-Con-Discapacidad-Visual.md)
 23. [Accesibilidad en la Pantalla de Permisos](Accesibilidad-En-La-Pantalla-De-Permisos.md)
 24. [Accesibilidad en la Activación de Localización de Protección Calle](Accesibilidad-En-La-Activación-De-Localización-De-Protección-Calle.md)
+25. [Accesibilidad en la Pantalla de Error de Sincronización](Accesibilidad-En-La-Pantalla-De-Error-De-Sincronización.md)
