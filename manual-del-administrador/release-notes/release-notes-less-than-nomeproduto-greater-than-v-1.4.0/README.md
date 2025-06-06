@@ -41,3 +41,4 @@
 34. [Accesibilidad en la Pantalla "Agregar Lugar Seguro"](Accesibilidad-En-La-Pantalla-"Agregar-Lugar-Seguro".md)
 35. [Accesibilidad en la Selección de Líneas](Accesibilidad-En-La-Selección-De-Líneas.md)
 36. [Accesibilidad en la Pantalla de Inicio de la Aplicación No Configurada](Accesibilidad-En-La-Pantalla-De-Inicio-De-La-Aplicación-No-Configurada.md)
+37. [Accesibilidad de la Pantalla Principal en la App](Accesibilidad-De-La-Pantalla-Principal-En-La-App.md)
