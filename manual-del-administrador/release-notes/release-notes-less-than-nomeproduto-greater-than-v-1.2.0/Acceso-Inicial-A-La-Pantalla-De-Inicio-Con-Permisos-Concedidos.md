@@ -1,0 +1,5 @@
+# Acceso Inicial a la Pantalla de Inicio con Permisos Concedidos
+
+**ID: US-BTC-380**
+
+Cuando abres la aplicación <NombreProducto> por primera vez, después de haber autorizado todos los permisos, serás llevado a la pantalla de Inicio. En esta pantalla, tendrás acceso a las funcionalidades principales y podrás ver el estado general de la aplicación. Si aún no has configurado tu información, al tocar en "Configura tus protecciones", serás guiado para definir contraseñas, agregar contactos, registrar ubicaciones o seleccionar aplicaciones. Después de completar estas configuraciones, se mostrará un mensaje de confirmación. Si te encuentras en un lugar que ha sido registrado como seguro, la aplicación mostrará que todas las aplicaciones están operando normalmente; de lo contrario, estarán en modo protegido. El Switch Master siempre estará encendido, indicando que la "Protección Calle" está activa.
