@@ -80,3 +80,4 @@
     * [Selección Detallada De Apps En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Selección-Detallada-De-Apps-En-El-Modo-Calle.md)
     * [Restricción De Acceso A Apps En Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Restricción-De-Acceso-A-Apps-En-Modo-Calle.md)
     * [Seleccionar Nombre Para Ubicación Segura En La App Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Seleccionar-Nombre-Para-Ubicación-Segura-En-La-App-Modo-Calle.md)
+    * [Definir Área De Cobertura De Local Seguro En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Definir-Área-De-Cobertura-De-Local-Seguro-En-El-Modo-Calle.md)
