@@ -4,6 +4,7 @@
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
     * [Gestión De Lugares Seguros En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Gestión-De-Lugares-Seguros-En-La-App-Protección-Calle.md)
     * [Integración De Google Maps En La Aplicación Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integración-De-Google-Maps-En-La-Aplicación-Protección-Calle.md)
+    * [Integración De Notificaciones Push Con Firebase](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Integración-De-Notificaciones-Push-Con-Firebase.md)
 # Table of contents
 
 * [Descripción Técnica de la Solución Protección Calle - Android](README.md)
