@@ -7,6 +7,7 @@
     * [Actualización Del Mensaje En La Pantalla De Inicio](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Actualización-Del-Mensaje-En-La-Pantalla-De-Inicio.md)
     * [Añadir Nuevas Ubicaciones](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Añadir-Nuevas-Ubicaciones.md)
     * [Ocultar Opciones Después De Denegar Permiso De Ubicación](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Ocultar-Opciones-Después-De-Denegar-Permiso-De-Ubicación.md)
+    * [Bloquear Y Desbloquear Apps Automáticamente](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloquear-Y-Desbloquear-Apps-Automáticamente.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibilidad Y Navegación En La Pantalla De Inicio De Ios](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
