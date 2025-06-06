@@ -11,6 +11,7 @@
     * [Activación Con Token Oauth En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Activación-Con-Token-Oauth-En-La-App-Protección-Calle.md)
     * [Autenticación Vía Oauth En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Autenticación-Vía-Oauth-En-La-App-Protección-Calle.md)
     * [Configuración De La Redirect Uri Para Oauth](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Configuración-De-La-Redirect-Uri-Para-Oauth.md)
+    * [Pantalla De Splash Screen En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Splash-Screen-En-La-App.md)
 # Table of contents
 
 * [Descripción Técnica de la Solución Protección Calle - Android](README.md)
