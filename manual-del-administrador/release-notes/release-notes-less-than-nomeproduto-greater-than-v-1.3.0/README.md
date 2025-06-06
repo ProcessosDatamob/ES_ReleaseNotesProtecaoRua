@@ -7,3 +7,4 @@
 
 1. [Notificación de Actualización Disponible](Notificación-De-Actualización-Disponible.md)
 2. [Notificación de Uso de la Contraseña de Emergencia](Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
+3. [Sugerencia de Registro de Ubicación Confiable en la App Protección Calle](Sugerencia-De-Registro-De-Ubicación-Confiable-En-La-App-Protección-Calle.md)
