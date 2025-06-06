@@ -56,6 +56,7 @@
     * [Validación De Contraseña En Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Validación-De-Contraseña-En-Protección-Calle.md)
     * [Configurar Radio De Protección](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Configurar-Radio-De-Protección.md)
     * [Creación Y Gestión De Contraseñas En El Perfil](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Creación-Y-Gestión-De-Contraseñas-En-El-Perfil.md)
+    * [Registro De Contacto De Confianza](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Registro-De-Contacto-De-Confianza.md)
   * [Release Notes \<NomeProduto> V 1.0.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/README.md)
     * [Visibilidad Y Navegación En La Pantalla De Inicio De Ios](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Visibilidad-Y-Navegación-En-La-Pantalla-De-Inicio-De-Ios.md)
     * [Elección De Ubicación Segura En El Mapa](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Elección-De-Ubicación-Segura-En-El-Mapa.md)
