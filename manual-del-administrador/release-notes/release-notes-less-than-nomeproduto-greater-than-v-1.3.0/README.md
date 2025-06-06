@@ -12,3 +12,4 @@
 5. [Notificación de Configuraciones Incompletas en la App Protección Calle](Notificación-De-Configuraciones-Incompletas-En-La-App-Protección-Calle.md)
 6. [Notificación de Configuraciones Pendientes en el Primer Inicio de Sesión](Notificación-De-Configuraciones-Pendientes-En-El-Primer-Inicio-De-Sesión.md)
 7. [Notificación de Permisos Faltantes en la App](Notificación-De-Permisos-Faltantes-En-La-App.md)
+8. [Uso de Biometría de la App VIVO en Protección Calle](Uso-De-Biometría-De-La-App-Vivo-En-Protección-Calle.md)
