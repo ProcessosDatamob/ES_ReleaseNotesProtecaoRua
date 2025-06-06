@@ -28,3 +28,4 @@
 13. [Registro de Contraseña Principal a través de Tarjeta de Incentivo](Registro-De-Contraseña-Principal-A-Través-De-Tarjeta-De-Incentivo.md)
 14. [Permiso de Notificaciones en la App Protección Calle](Permiso-De-Notificaciones-En-La-App-Protección-Calle.md)
 15. [Permiso de Ubicación en la App Protección Calle](Permiso-De-Ubicación-En-La-App-Protección-Calle.md)
+16. [Concesión de Permiso de Tiempo de Uso en la App Protección Calle](Concesión-De-Permiso-De-Tiempo-De-Uso-En-La-App-Protección-Calle.md)
