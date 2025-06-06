@@ -13,6 +13,7 @@
     * [Gestión De Contraseñas Por Perfil](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Gestión-De-Contraseñas-Por-Perfil.md)
     * [Notificación De Permisos Pendientes En La Aplicación](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Notificación-De-Permisos-Pendientes-En-La-Aplicación.md)
     * [Acceso Inicial A La Pantalla De Inicio Con Permisos Concedidos](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Acceso-Inicial-A-La-Pantalla-De-Inicio-Con-Permisos-Concedidos.md)
+    * [Recepción Y Respuesta De Notificación De Prueba En La App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.2.0/Recepción-Y-Respuesta-De-Notificación-De-Prueba-En-La-App-Protección-Calle.md)
   * [Release Notes \<NomeProduto> V 1.1.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/README.md)
     * [Botón Switch Master Inactivo](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Botón-Switch-Master-Inactivo.md)
     * [Bloqueo De Apps Fuera Del Lugar Seguro](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.1.0/Bloqueo-De-Apps-Fuera-Del-Lugar-Seguro.md)
