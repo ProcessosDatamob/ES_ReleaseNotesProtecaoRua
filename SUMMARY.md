@@ -17,6 +17,7 @@
     * [Pantalla De Splash Screen En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Splash-Screen-En-La-App.md)
     * [Personalización De Aplicaciones En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Personalización-De-Aplicaciones-En-El-Modo-Calle.md)
     * [Pantalla De Acceso Inicial En El Modo Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Pantalla-De-Acceso-Inicial-En-El-Modo-Calle.md)
+    * [Acceso Y Gestión De Lugares Seguros En La App](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.0.0/Acceso-Y-Gestión-De-Lugares-Seguros-En-La-App.md)
 # Table of contents
 
 * [Descripción Técnica de la Solución Protección Calle - Android](README.md)
