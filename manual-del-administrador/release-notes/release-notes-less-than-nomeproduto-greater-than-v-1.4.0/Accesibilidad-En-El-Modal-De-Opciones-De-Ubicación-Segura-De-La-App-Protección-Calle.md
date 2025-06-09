@@ -1,5 +1,0 @@
-# Accesibilidad en el Modal de Opciones de Ubicación Segura de la App Protección Calle
-
-**ID: US-BTC-360**
-
-La aplicación Protección Calle ahora ofrece una ventana de opciones de ubicación segura que es totalmente accesible para usuarios con necesidades especiales. La navegación en esta ventana es fácil y organizada para usuarios que utilizan lectores de pantalla, garantizando que, al pasar por los elementos, la secuencia de enfoque sea correcta. Los botones como "Cerrar ventana", "Editar dirección", "Renombrar ubicación" y "Eliminar" son anunciados de forma clara por los lectores de pantalla y están correctamente identificados como botones tanto en dispositivos Android como iOS. Esto facilita la edición, renombramiento y eliminación de ubicaciones seguras de manera independiente y eficiente.
