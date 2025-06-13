@@ -42,3 +42,4 @@
 35. [Mejoras de Accesibilidad en la Pantalla de Selección de Línea](Mejoras-De-Accesibilidad-En-La-Pantalla-De-Selección-De-Línea.md)
 36. [Accesibilidad de la Pantalla de Inicio No Configurada de la App](Accesibilidad-De-La-Pantalla-De-Inicio-No-Configurada-De-La-App.md)
 37. [Accesibilidad de la Pantalla Principal - App Protección Calle](Accesibilidad-De-La-Pantalla-Principal---App-Protección-Calle.md)
+38. [Accesibilidad Mejorada en la Pantalla de Inicio de Protección Calle](Accesibilidad-Mejorada-En-La-Pantalla-De-Inicio-De-Protección-Calle.md)
