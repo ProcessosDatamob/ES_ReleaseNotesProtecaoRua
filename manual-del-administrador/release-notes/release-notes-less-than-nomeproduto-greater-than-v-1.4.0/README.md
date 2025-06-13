@@ -7,3 +7,4 @@
 
 1. [Accesibilidad en la Pantalla de Notificaciones](Accesibilidad-En-La-Pantalla-De-Notificaciones.md)
 2. [Accesibilidad en la Pantalla de Error](Accesibilidad-En-La-Pantalla-De-Error.md)
+3. [Accesibilidad para Usuarios con Discapacidad Visual](Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual.md)
