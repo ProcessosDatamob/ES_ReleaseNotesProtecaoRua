@@ -30,3 +30,4 @@
 23. [Accesibilidad en la Pantalla de Permisos de Protección Calle](Accesibilidad-En-La-Pantalla-De-Permisos-De-Protección-Calle.md)
 24. [Accesibilidad en la Activación de Localización en Protección Calle](Accesibilidad-En-La-Activación-De-Localización-En-Protección-Calle.md)
 25. [Accesibilidad en la Pantalla de Error de Sincronización](Accesibilidad-En-La-Pantalla-De-Error-De-Sincronización.md)
+26. [Accesibilidad en la Pantalla de Cambio de Dispositivo](Accesibilidad-En-La-Pantalla-De-Cambio-De-Dispositivo.md)
