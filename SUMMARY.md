@@ -22,6 +22,7 @@
     * [Accesibilidad En La Pantalla De Error](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Error.md)
     * [Accesibilidad Para Usuarios Con Discapacidad Visual](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual.md)
     * [Accesibilidad En La Pantalla De Faq](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Faq.md)
+    * [Accesibilidad En La Pantalla De Permisos Pendientes](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Permisos-Pendientes.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
