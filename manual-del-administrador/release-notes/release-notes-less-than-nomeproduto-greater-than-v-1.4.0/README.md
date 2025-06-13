@@ -23,3 +23,4 @@
 16. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
 17. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
 18. [Accesibilidad para Usuarios con Discapacidad Visual en la Pantalla de Contraseña de Emergencia](Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
+19. [Accesibilidad para Usuarios con Discapacidad Visual en la Pantalla de Contraseña de Emergencia](Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
