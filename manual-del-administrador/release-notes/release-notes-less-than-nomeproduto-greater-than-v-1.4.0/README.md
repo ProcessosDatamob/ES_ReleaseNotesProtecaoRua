@@ -19,3 +19,4 @@
 12. [Accesibilidad de la Pantalla de Perfil para Usuarios con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Perfil-Para-Usuarios-Con-Discapacidad-Visual.md)
 13. [Accesibilidad en la Pantalla de Retroalimentación de Protección de Calle](Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Protección-De-Calle.md)
 14. [Accesibilidad en la Pantalla de Añadir Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Añadir-Contacto-De-Confianza.md)
+15. [Accesibilidad para Gestionar Contactos de Confianza](Accesibilidad-Para-Gestionar-Contactos-De-Confianza.md)
