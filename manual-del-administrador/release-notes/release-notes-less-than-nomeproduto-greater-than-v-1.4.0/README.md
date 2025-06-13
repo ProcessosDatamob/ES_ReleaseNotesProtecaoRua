@@ -32,3 +32,4 @@
 25. [Accesibilidad en la Pantalla de Error de Sincronización](Accesibilidad-En-La-Pantalla-De-Error-De-Sincronización.md)
 26. [Accesibilidad en la Pantalla de Cambio de Dispositivo](Accesibilidad-En-La-Pantalla-De-Cambio-De-Dispositivo.md)
 27. [Accesibilidad en la Pantalla "Límite de Lugares Seguros Alcanzado"](Accesibilidad-En-La-Pantalla-"Límite-De-Lugares-Seguros-Alcanzado".md)
+28. [Accesibilidad en la Pantalla "Gestionar Lugares Seguros"](Accesibilidad-En-La-Pantalla-"Gestionar-Lugares-Seguros".md)
