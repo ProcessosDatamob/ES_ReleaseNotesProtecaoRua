@@ -20,3 +20,4 @@
 13. [Accesibilidad en la Pantalla de Retroalimentación de Protección de Calle](Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Protección-De-Calle.md)
 14. [Accesibilidad en la Pantalla de Añadir Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Añadir-Contacto-De-Confianza.md)
 15. [Accesibilidad para Gestionar Contactos de Confianza](Accesibilidad-Para-Gestionar-Contactos-De-Confianza.md)
+16. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
