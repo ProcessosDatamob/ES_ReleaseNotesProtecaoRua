@@ -28,3 +28,4 @@
 21. [Accesibilidad en la Creación de Contraseña Principal](Accesibilidad-En-La-Creación-De-Contraseña-Principal.md)
 22. [Accesibilidad en la Pantalla de Sincronización de Información](Accesibilidad-En-La-Pantalla-De-Sincronización-De-Información.md)
 23. [Accesibilidad en la Pantalla de Permisos de Protección Calle](Accesibilidad-En-La-Pantalla-De-Permisos-De-Protección-Calle.md)
+24. [Accesibilidad en la Activación de Localización en Protección Calle](Accesibilidad-En-La-Activación-De-Localización-En-Protección-Calle.md)
