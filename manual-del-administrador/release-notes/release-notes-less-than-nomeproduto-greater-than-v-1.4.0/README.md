@@ -17,3 +17,4 @@
 10. [Accesibilidad en el Cambio de Contraseña Principal](Accesibilidad-En-El-Cambio-De-Contraseña-Principal.md)
 11. [Accesibilidad en la Pantalla de Gestionar Contraseñas](Accesibilidad-En-La-Pantalla-De-Gestionar-Contraseñas.md)
 12. [Accesibilidad de la Pantalla de Perfil para Usuarios con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Perfil-Para-Usuarios-Con-Discapacidad-Visual.md)
+13. [Accesibilidad en la Pantalla de Retroalimentación de Protección de Calle](Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Protección-De-Calle.md)
