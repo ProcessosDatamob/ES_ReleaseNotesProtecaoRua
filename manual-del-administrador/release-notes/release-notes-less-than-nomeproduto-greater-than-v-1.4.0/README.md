@@ -13,3 +13,4 @@
 6. [Accesibilidad en la Edición de Contacto de Confianza](Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
 7. [Accesibilidad para Selección de Contacto](Accesibilidad-Para-Selección-De-Contacto.md)
 8. [Accesibilidad de la Pantalla de Retroalimentación de Cambio de Contraseña](Accesibilidad-De-La-Pantalla-De-Retroalimentación-De-Cambio-De-Contraseña.md)
+9. [Accesibilidad en la Pantalla de Cambiar Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Cambiar-Contraseña-De-Emergencia.md)
