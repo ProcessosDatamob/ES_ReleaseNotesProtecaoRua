@@ -56,3 +56,4 @@
 49. [Accesibilidad en la Pantalla de Gestionar Contraseñas](Accesibilidad-En-La-Pantalla-De-Gestionar-Contraseñas.md)
 50. [Accesibilidad en la Pantalla de Perfil](Accesibilidad-En-La-Pantalla-De-Perfil.md)
 51. [Accesibilidad en la Pantalla de Retroalimentación de Protección de Calle](Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Protección-De-Calle.md)
+52. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
