@@ -72,3 +72,4 @@
 65. [Accesibilidad en la Pantalla "Límite de Lugares Seguros Alcanzado"](Accesibilidad-En-La-Pantalla-"Límite-De-Lugares-Seguros-Alcanzado".md)
 66. [Accesibilidad en la Pantalla "Gestionar Lugares Seguros"](Accesibilidad-En-La-Pantalla-"Gestionar-Lugares-Seguros".md)
 67. [Accesibilidad en la Búsqueda de Dirección de la App Protección Calle](Accesibilidad-En-La-Búsqueda-De-Dirección-De-La-App-Protección-Calle.md)
+68. [Accesibilidad en el Modal de Eliminación de Ubicación Segura](Accesibilidad-En-El-Modal-De-Eliminación-De-Ubicación-Segura.md)
