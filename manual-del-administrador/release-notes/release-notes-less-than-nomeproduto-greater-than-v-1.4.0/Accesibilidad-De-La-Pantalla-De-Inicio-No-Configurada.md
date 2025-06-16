@@ -1,0 +1,5 @@
+# Accesibilidad de la Pantalla de Inicio No Configurada
+
+**ID: US-BTC-348**
+
+**Descripción:** En la aplicación, la pantalla de inicio que aún no ha sido configurada es totalmente accesible para personas con discapacidad. La navegación por los elementos se realiza de manera organizada e intuitiva, permitiendo que los usuarios utilicen el teclado u otros métodos de navegación en secuencia sin dificultades. Los lectores de pantalla proporcionan descripciones claras de los elementos en la pantalla e identifican los tipos de componentes de manera automática. Cuando la funcionalidad "Protección de Calle" está desactivada, el lector de pantalla avisa "Protección de Calle desactivada. Configure sus protecciones" tan pronto como el usuario se concentra en ese elemento, lo que ayuda en la comprensión y navegación del usuario por la pantalla.
