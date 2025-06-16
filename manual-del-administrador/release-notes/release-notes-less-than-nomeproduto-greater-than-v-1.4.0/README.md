@@ -48,3 +48,4 @@
 41. [Accesibilidad para Usuarios con Discapacidad Visual](Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual.md)
 42. [Accesibilidad en la Pantalla de FAQ](Accesibilidad-En-La-Pantalla-De-Faq.md)
 43. [Accesibilidad en la Pantalla de Permisos Pendientes](Accesibilidad-En-La-Pantalla-De-Permisos-Pendientes.md)
+44. [Accesibilidad en la Edición de Contacto de Confianza](Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
