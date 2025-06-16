@@ -56,6 +56,7 @@
     * [Accesibilidad De La Pantalla Principal   App Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-De-La-Pantalla-Principal---App-Protección-Calle.md)
     * [Accesibilidad Mejorada En La Pantalla De Inicio De Protección Calle](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-Mejorada-En-La-Pantalla-De-Inicio-De-Protección-Calle.md)
     * [Accesibilidad De La Pantalla De Error Para Personas Con Discapacidad Visual](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-De-La-Pantalla-De-Error-Para-Personas-Con-Discapacidad-Visual.md)
+    * [Accesibilidad En La Selección De Contacto Para Edición](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Selección-De-Contacto-Para-Edición.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
