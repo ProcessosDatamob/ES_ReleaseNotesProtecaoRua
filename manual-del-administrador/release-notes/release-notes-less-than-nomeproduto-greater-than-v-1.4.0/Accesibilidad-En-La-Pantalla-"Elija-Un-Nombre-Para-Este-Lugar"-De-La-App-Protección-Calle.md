@@ -1,0 +1,5 @@
+# Accesibilidad en la Pantalla "Elija un nombre para este lugar" de la App Protección Calle
+
+**ID: US-BTC-358**
+
+Ahora, la pantalla "Elija un nombre para este lugar" en la aplicación Protección Calle es totalmente accesible, permitiendo que todos los usuarios, incluidos aquellos que dependen de lectores de pantalla, naveguen con facilidad. Los elementos de la pantalla, como botones y opciones de lugar, tienen descripciones claras y se anuncian de manera lógica. Por ejemplo, los botones "Cerrar ventana" y "Guardar nombre" están claramente identificados, asegurando que los usuarios conozcan sus funciones. Cuando se selecciona la opción "Otro", el campo de texto para ingresar el nombre se activa automáticamente, y el teclado se muestra, acompañado por la etiqueta "Escriba el nombre de la dirección", que también se anuncia. Todo esto proporciona una experiencia tranquila y autónoma en la asignación de nombres a lugares seguros, haciendo el proceso más independiente y eficiente para todos los usuarios.
