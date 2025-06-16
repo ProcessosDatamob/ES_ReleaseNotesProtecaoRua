@@ -60,3 +60,4 @@
 53. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
 54. [Accesibilidad en la Pantalla de Contacto de Confianza](Accesibilidad-En-La-Pantalla-De-Contacto-De-Confianza.md)
 55. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
+56. [Accesibilidad para Detalles de la Contraseña de Emergencia](Accesibilidad-Para-Detalles-De-La-Contraseña-De-Emergencia.md)
