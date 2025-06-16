@@ -2,4 +2,4 @@
 
 **ID: US-BTC-472**
 
-La página que explica cómo evitar la desinstalación de Protección Rua ahora ha sido ajustada para ser fácilmente accesible para personas con discapacidad visual. El orden de los elementos en la pantalla ha sido organizado de manera lógica, para que el lector de pantalla pueda interpretar y transmitir la información de forma clara y precisa. Los elementos en la pantalla tienen descripciones apropiadas, ayudando a los usuarios a entender y seguir las instrucciones sin necesidad de ayuda.
+Descripción: En el portal, la pantalla "Cómo impedir que Protección Calle sea desinstalado" ha sido adaptada para ser accesible a usuarios con discapacidad visual. Todos los elementos de la página ahora siguen una secuencia lógica de navegación. Las descripciones de los componentes son más claras y utilizan un lenguaje fácil de entender. Además, los diferentes tipos de componentes están identificados de forma precisa, permitiendo que los usuarios que dependen de lectores de pantalla puedan comprender e interactuar con la página de manera independiente y eficaz.
