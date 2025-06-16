@@ -51,3 +51,4 @@
 44. [Accesibilidad en la Edición de Contacto de Confianza](Accesibilidad-En-La-Edición-De-Contacto-De-Confianza.md)
 45. [Accesibilidad en la Selección de Contacto para Edición](Accesibilidad-En-La-Selección-De-Contacto-Para-Edición.md)
 46. [Accesibilidad en la Pantalla de Retroalimentación de Contraseña](Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Contraseña.md)
+47. [Accesibilidad en el Cambio de Contraseña de Emergencia](Accesibilidad-En-El-Cambio-De-Contraseña-De-Emergencia.md)
