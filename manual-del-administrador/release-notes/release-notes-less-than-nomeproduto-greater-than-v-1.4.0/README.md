@@ -45,3 +45,4 @@
 38. [Accesibilidad Mejorada en la Pantalla de Inicio de Protección Calle](Accesibilidad-Mejorada-En-La-Pantalla-De-Inicio-De-Protección-Calle.md)
 39. [Accesibilidad en la Pantalla de Notificaciones](Accesibilidad-En-La-Pantalla-De-Notificaciones.md)
 40. [Accesibilidad de la Pantalla de Error para Personas con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Error-Para-Personas-Con-Discapacidad-Visual.md)
+41. [Accesibilidad para Usuarios con Discapacidad Visual](Accesibilidad-Para-Usuarios-Con-Discapacidad-Visual.md)
