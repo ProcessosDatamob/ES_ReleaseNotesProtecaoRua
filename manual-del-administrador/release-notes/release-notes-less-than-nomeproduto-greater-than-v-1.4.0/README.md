@@ -79,3 +79,4 @@
 72. [Accesibilidad en la Pantalla "Agregar Ubicación Segura"](Accesibilidad-En-La-Pantalla-"Agregar-Ubicación-Segura".md)
 73. [Accesibilidad en la Pantalla de Selección de Línea](Accesibilidad-En-La-Pantalla-De-Selección-De-Línea.md)
 74. [Accesibilidad de la Pantalla de Inicio No Configurada](Accesibilidad-De-La-Pantalla-De-Inicio-No-Configurada.md)
+75. [Accesibilidad Completa de la Pantalla Principal en la App](Accesibilidad-Completa-De-La-Pantalla-Principal-En-La-App.md)
