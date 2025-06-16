@@ -1,5 +1,5 @@
 # Accesibilidad en la Pantalla de Permisos de Protección Calle
 
-**ID de US: US-BTC-452**
+**ID: US-BTC-452**
 
-Esta funcionalidad en la app Protección Calle asegura que los usuarios que dependen de lectores de pantalla puedan navegar y entender la pantalla de permisos de manera clara y organizada. Los elementos en la pantalla se muestran en un orden lógico, con descripciones precisas e identificación correcta de los tipos de componentes. Esto permite que el usuario entienda fácilmente qué permisos se están solicitando y pueda tomar decisiones informadas con confianza.
+Descripción: Esta funcionalidad asegura que la pantalla de permiso para acceso a la ubicación y otras autorizaciones en Protección Calle sea fácil de usar para personas que dependen de lectores de pantalla. Esto significa que la navegación debe seguir una secuencia lógica, las descripciones de los elementos en la pantalla deben ser claras y fáciles de entender, y los diferentes tipos de botones y opciones deben estar correctamente identificados. De esta manera, los usuarios pueden comprender la información presentada y tomar decisiones informadas sobre qué permisos conceder.
