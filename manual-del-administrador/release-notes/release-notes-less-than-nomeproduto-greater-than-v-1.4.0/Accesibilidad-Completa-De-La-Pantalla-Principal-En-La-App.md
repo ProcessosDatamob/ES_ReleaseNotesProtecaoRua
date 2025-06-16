@@ -1,0 +1,5 @@
+# Accesibilidad Completa de la Pantalla Principal en la App
+
+**ID de la US: US-BTC-346**
+
+La pantalla principal de la aplicación Protección Calle está diseñada para ser completamente accesible a usuarios con discapacidad, proporcionando una experiencia inclusiva y sin obstáculos. La navegación está organizada de manera lógica, permitiendo que todos los elementos sean fácilmente reconocidos por lectores de pantalla, con descripciones claras de los tipos de componentes. Cualquier cambio en el estado de la funcionalidad "Protección calle" se comunica instantáneamente, asegurando que los usuarios estén siempre informados. La transición entre pestañas es suave e intuitiva, con señales sonoras que indican cuál pestaña está activa. Esto asegura que los usuarios con discapacidad puedan interactuar con la aplicación de manera eficaz e independiente.
