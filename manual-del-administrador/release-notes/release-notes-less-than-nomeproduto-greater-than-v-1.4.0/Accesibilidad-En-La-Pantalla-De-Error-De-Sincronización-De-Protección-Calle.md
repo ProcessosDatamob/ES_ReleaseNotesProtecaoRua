@@ -1,0 +1,5 @@
+# Accesibilidad en la Pantalla de Error de Sincronización de Protección Calle
+
+**ID: US-BTC-450**
+
+La pantalla de error de sincronización de Protección Calle en el portal ha sido mejorada para que todos los usuarios, incluidos aquellos que utilizan lectores de pantalla, puedan acceder a ella sin dificultades. Ahora, los elementos en la pantalla se presentan en una secuencia lógica, facilitando la comprensión del error y de las opciones que el usuario puede elegir. Cada botón y enlace interactivo tiene una descripción clara y precisa, y el lector de pantalla puede identificar correctamente el tipo de cada elemento, como botones o campos de texto. Estas mejoras garantizan que la navegación por la pantalla sea eficiente y que todos los usuarios puedan tener una experiencia inclusiva y sin barreras.
