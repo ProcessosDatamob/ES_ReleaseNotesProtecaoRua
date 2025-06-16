@@ -2,4 +2,4 @@
 
 **ID: US-BTC-454**
 
-En Protección Calle, la pantalla donde creas tu contraseña principal ahora es más accesible para personas con discapacidad visual. Cuando el lector de pantalla está activado, todos los elementos en la pantalla se leen en una secuencia lógica, asegurando que entiendas las instrucciones sin ningún problema. Cada parte de la pantalla se explica de manera clara, y sabrás exactamente con qué tipo de componente estás interactuando. Esto hace que el proceso de crear tu contraseña sea más fácil y seguro, permitiéndote navegar y completar este paso sin dificultades.
+Descripción: En la aplicación Protección Calle, la pantalla donde creas tu contraseña principal ha sido mejorada para ayudar a personas con discapacidad visual. Ahora, la navegación usando lectores de pantalla está organizada de forma lógica, lo que significa que los elementos se presentan en el orden correcto. Además, cada parte de la pantalla tiene descripciones claras, facilitando la comprensión e interacción con ellas. Esto garantiza que todos los usuarios puedan crear sus contraseñas fácilmente, incluso cuando utilizan tecnologías que ayudan en la accesibilidad.
