@@ -63,3 +63,4 @@
 56. [Accesibilidad para Detalles de la Contraseña de Emergencia](Accesibilidad-Para-Detalles-De-La-Contraseña-De-Emergencia.md)
 57. [Accesibilidad en la Pantalla de Contraseña de Emergencia](Accesibilidad-En-La-Pantalla-De-Contraseña-De-Emergencia.md)
 58. [Accesibilidad en la Pantalla de Registro de Contraseña Principal](Accesibilidad-En-La-Pantalla-De-Registro-De-Contraseña-Principal.md)
+59. [Accesibilidad en la Creación de Contraseña Principal](Accesibilidad-En-La-Creación-De-Contraseña-Principal.md)
