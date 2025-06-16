@@ -1,5 +1,5 @@
 # Accesibilidad en la Pantalla "Límite de Lugares Seguros Alcanzado"
 
-**ID: US-BTC-372**
+**ID de la US: US-BTC-372**
 
-La pantalla "Límite de lugares seguros alcanzado" en la app Protección Calle ha sido mejorada para ser fácilmente utilizada por personas con necesidades especiales. Ahora, cuando usas lectores de pantalla, todo se lee en una secuencia que tiene sentido, facilitando la comprensión de la información y las acciones disponibles. El botón "Preguntas frecuentes" y los textos informativos se anuncian claramente, ayudándote a navegar por la app de manera clara e independiente.
+En la aplicación Protección Calle, la pantalla que avisa cuando has alcanzado el "Límite de lugares seguros" ha sido actualizada para ser completamente accesible. Esto significa que los usuarios con necesidades especiales pueden navegar por esta pantalla sin ayuda. La secuencia de navegación está planificada de manera lógica, facilitando el uso de lectores de pantalla. Los componentes, como el botón "Preguntas frecuentes" y los textos que explican la situación, están claramente descritos. Todos los elementos de la pantalla están identificados de manera que los botones y textos sean fácilmente reconocidos y funcionen bien con tecnologías asistivas.
