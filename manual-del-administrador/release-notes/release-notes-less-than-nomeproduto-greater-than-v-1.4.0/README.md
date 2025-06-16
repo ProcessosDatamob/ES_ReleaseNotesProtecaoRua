@@ -75,3 +75,4 @@
 68. [Accesibilidad en el Modal de Eliminación de Ubicación Segura](Accesibilidad-En-El-Modal-De-Eliminación-De-Ubicación-Segura.md)
 69. [Accesibilidad en el Modal de Opciones de Lugar Seguro](Accesibilidad-En-El-Modal-De-Opciones-De-Lugar-Seguro.md)
 70. [Accesibilidad en la Pantalla "Elija un nombre para este lugar" de la App Protección Calle](Accesibilidad-En-La-Pantalla-"Elija-Un-Nombre-Para-Este-Lugar"-De-La-App-Protección-Calle.md)
+71. [Accesibilidad en la Pantalla "Definir Área Segura"](Accesibilidad-En-La-Pantalla-"Definir-Área-Segura".md)
