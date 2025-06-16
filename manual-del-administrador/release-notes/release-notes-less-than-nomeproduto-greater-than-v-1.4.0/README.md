@@ -76,3 +76,4 @@
 69. [Accesibilidad en el Modal de Opciones de Lugar Seguro](Accesibilidad-En-El-Modal-De-Opciones-De-Lugar-Seguro.md)
 70. [Accesibilidad en la Pantalla "Elija un nombre para este lugar" de la App Protección Calle](Accesibilidad-En-La-Pantalla-"Elija-Un-Nombre-Para-Este-Lugar"-De-La-App-Protección-Calle.md)
 71. [Accesibilidad en la Pantalla "Definir Área Segura"](Accesibilidad-En-La-Pantalla-"Definir-Área-Segura".md)
+72. [Accesibilidad en la Pantalla "Agregar Ubicación Segura"](Accesibilidad-En-La-Pantalla-"Agregar-Ubicación-Segura".md)
