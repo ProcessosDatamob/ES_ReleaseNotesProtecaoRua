@@ -58,6 +58,7 @@
     * [Accesibilidad De La Pantalla De Error Para Personas Con Discapacidad Visual](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-De-La-Pantalla-De-Error-Para-Personas-Con-Discapacidad-Visual.md)
     * [Accesibilidad En La Selección De Contacto Para Edición](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Selección-De-Contacto-Para-Edición.md)
     * [Accesibilidad En La Pantalla De Retroalimentación De Contraseña](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-La-Pantalla-De-Retroalimentación-De-Contraseña.md)
+    * [Accesibilidad En El Cambio De Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.4.0/Accesibilidad-En-El-Cambio-De-Contraseña-De-Emergencia.md)
   * [Release Notes \<NomeProduto> V 1.3.0](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/README.md)
     * [Notificación De Actualización Disponible](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Actualización-Disponible.md)
     * [Notificación De Uso De La Contraseña De Emergencia](manual-del-administrador/release-notes/release-notes-less-than-nomeproduto-greater-than-v-1.3.0/Notificación-De-Uso-De-La-Contraseña-De-Emergencia.md)
