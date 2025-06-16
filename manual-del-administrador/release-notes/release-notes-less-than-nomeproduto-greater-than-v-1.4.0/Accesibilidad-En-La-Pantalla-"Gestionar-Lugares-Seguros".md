@@ -1,5 +1,5 @@
 # Accesibilidad en la Pantalla "Gestionar Lugares Seguros"
 
-**ID de US: US-BTC-370**
+**ID de la US: US-BTC-370**
 
-La pantalla "Gestionar Lugares Seguros" en la aplicación Protección Calle ahora es completamente accesible para personas con necesidades especiales. La navegación ha sido optimizada para ser lógica y fácil de usar con lectores de pantalla, asegurando que todos los elementos sean anunciados de manera clara e identificados de forma precisa. Esto permite que los usuarios visualicen, editen y añadan lugares seguros de manera independiente y eficiente, mejorando significativamente la experiencia de accesibilidad para todos.
+Descripción: En la aplicación Protección Calle, la pantalla "Gestionar lugares seguros" ha sido mejorada para ser completamente accesible para usuarios con necesidades especiales. Ahora, quienes utilizan lectores de pantalla pueden navegar fácilmente, ya que todos los elementos son anunciados de manera clara y en una secuencia lógica. Botones, títulos y pestañas han sido ajustados para que sus nombres y funciones sean fácilmente comprensibles, permitiendo que los usuarios puedan ver, editar y agregar lugares seguros sin dificultades, de manera independiente y eficiente.
