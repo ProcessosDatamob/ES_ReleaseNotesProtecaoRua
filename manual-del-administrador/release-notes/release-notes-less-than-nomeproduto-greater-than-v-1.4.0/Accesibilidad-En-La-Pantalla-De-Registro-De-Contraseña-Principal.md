@@ -2,4 +2,4 @@
 
 **ID: US-BTC-455**
 
-Descripción: En la app Protección Calle, la pantalla donde creas y confirmas tu contraseña principal ha sido mejorada para ayudar a usuarios con discapacidad visual. El movimiento entre los diferentes elementos de la pantalla sigue una secuencia lógica, y todas las descripciones de los componentes son claras y comprensibles cuando son leídas por tecnologías que ayudan en la accesibilidad. Esto asegura que todos los usuarios puedan ingresar sus contraseñas correctamente y entiendan los requisitos de validación de manera fácil e independiente.
+Descripción: En la aplicación Protección Calle, la pantalla donde defines y confirmas tu contraseña principal ahora es más accesible para personas con discapacidad visual. Con la ayuda de tecnologías asistivas, los elementos en la pantalla se leen de forma organizada y lógica, y cada componente tiene descripciones claras. Esto asegura que puedas ingresar tu contraseña comprendiendo completamente los criterios de validación necesarios. Esta mejora aumenta la facilidad de uso y la interacción para todos los usuarios.
