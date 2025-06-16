@@ -1,5 +1,5 @@
 # Accesibilidad en la Pantalla de Contraseña de Emergencia
 
-**ID: US-BTC-458**
+**ID:** **US-BTC-456**
 
-Descripción: En la aplicación Protección Calle, la pantalla donde creas y confirmas tu contraseña de emergencia ha sido mejorada para ayudar a personas con discapacidad visual. Ahora, quienes usan lectores de pantalla pueden escuchar los elementos en el orden correcto y entender claramente lo que hace cada uno, ya que las descripciones son claras e indican qué tipo de componente es. Si hay algún error, se te informará de inmediato, lo que hace que la experiencia sea más fácil y tranquila para quienes utilizan tecnologías asistivas.
+**Descripción:** En la aplicación Protección Calle, los usuarios con discapacidad visual pueden acceder a la pantalla de introducción de contraseña de emergencia de manera fácil y eficiente. La lectura de los elementos se realiza en una secuencia lógica y las descripciones ofrecidas por el lector de pantalla son claras y detalladas. Esto garantiza que todos los componentes de la pantalla sean fácilmente reconocidos y entendidos, permitiendo que los usuarios tomen decisiones informadas al usar tecnologías asistivas.
