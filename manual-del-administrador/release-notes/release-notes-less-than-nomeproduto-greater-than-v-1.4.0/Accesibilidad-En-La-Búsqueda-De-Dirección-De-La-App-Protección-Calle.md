@@ -2,4 +2,4 @@
 
 **ID: US-BTC-367**
 
-La pantalla de búsqueda de dirección de la app Protección Calle ha sido mejorada para garantizar que los usuarios con necesidades especiales puedan utilizarla sin dificultades. Ahora, la navegación sigue un orden lógico e intuitivo, ideal para quienes utilizan lectores de pantalla. Los componentes, como botones y campos de texto, tienen descripciones claras, haciendo la interacción más fácil y directa. Además, los elementos están identificados de manera que cualquier usuario pueda definir lugares seguros de manera independiente y eficiente.
+La pantalla de búsqueda de dirección en la app Protección Calle está diseñada para ser totalmente accesible. Los usuarios que necesitan soporte especial pueden usar lectores de pantalla para navegar fácilmente, con una secuencia lógica y descripciones claras de los elementos, como botones y campos de texto. Cada parte de la pantalla está identificada de manera que el lector de pantalla pueda anunciar correctamente qué hace cada elemento y cuál es su contenido. Esto garantiza que todos los usuarios puedan buscar direcciones de manera eficiente e independiente.
