@@ -44,3 +44,4 @@
 37. [Accesibilidad de la Pantalla Principal - App Protección Calle](Accesibilidad-De-La-Pantalla-Principal---App-Protección-Calle.md)
 38. [Accesibilidad Mejorada en la Pantalla de Inicio de Protección Calle](Accesibilidad-Mejorada-En-La-Pantalla-De-Inicio-De-Protección-Calle.md)
 39. [Accesibilidad en la Pantalla de Notificaciones](Accesibilidad-En-La-Pantalla-De-Notificaciones.md)
+40. [Accesibilidad de la Pantalla de Error para Personas con Discapacidad Visual](Accesibilidad-De-La-Pantalla-De-Error-Para-Personas-Con-Discapacidad-Visual.md)
