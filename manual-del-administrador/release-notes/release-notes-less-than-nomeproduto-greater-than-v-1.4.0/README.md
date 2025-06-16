@@ -67,3 +67,4 @@
 60. [Accesibilidad en la Pantalla de Sincronización de Información](Accesibilidad-En-La-Pantalla-De-Sincronización-De-Información.md)
 61. [Accesibilidad en la Pantalla de Permisos de Protección Calle](Accesibilidad-En-La-Pantalla-De-Permisos-De-Protección-Calle.md)
 62. [Accesibilidad en la Activación de Ubicación de Protección Calle](Accesibilidad-En-La-Activación-De-Ubicación-De-Protección-Calle.md)
+63. [Accesibilidad en la Pantalla de Error de Sincronización de Protección Calle](Accesibilidad-En-La-Pantalla-De-Error-De-Sincronización-De-Protección-Calle.md)
