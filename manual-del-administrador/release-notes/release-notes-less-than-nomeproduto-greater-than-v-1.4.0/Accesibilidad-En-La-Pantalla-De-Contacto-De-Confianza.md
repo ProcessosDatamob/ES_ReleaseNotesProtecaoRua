@@ -1,5 +1,5 @@
-# Accesibilidad en la Pantalla de Contacto de Confianza  
+# Accesibilidad en la Pantalla de Contacto de Confianza
 
-**ID: US-BTC-461**  
+**ID: US-BTC-460**
 
-La pantalla de "Agregar un contacto de confianza" ha sido mejorada para facilitar su uso por todos los usuarios. Ahora, cuando ingresas un número, este se valida de manera simple y clara, lo que ayuda a un llenado correcto. Los elementos de la pantalla están organizados en un orden que tiene sentido visualmente, haciendo que la navegación sea más natural. Además, si utilizas lectores de pantalla, estos proporcionarán descripciones precisas y relevantes, ayudando a entender cada parte de la pantalla. Todos los componentes están claramente identificados para tecnologías que asisten a personas con necesidades especiales, garantizando que cualquier persona pueda agregar contactos de confianza de manera fácil y accesible.
+Descripción: En el portal, los usuarios que necesitan recursos de accesibilidad pueden agregar o editar fácilmente un segundo contacto de confianza en la pantalla específica, que ha sido diseñada para ser accesible. La navegación por los elementos está organizada de manera lógica, con una secuencia clara para moverse entre los ítems, además de descripciones detalladas e identificación correcta de los tipos de componentes. Esto facilita la gestión eficaz y clara de los contactos de confianza, especialmente para aquellos que utilizan tecnología asistiva, como lectores de pantalla.
